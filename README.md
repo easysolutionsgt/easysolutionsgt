@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Steven+Velasquez+%F0%9F%91%8B;Full+Stack+Developer;SAP+B1+%2B+SQL+Server+Specialist;Building+in+Guatemala+%F0%9F%87%AC%F0%9F%87%B9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SAP+B1+%2B+SQL+Server+Specialist;Building+in+Guatemala+%F0%9F%87%AC%F0%9F%87%B9" alt="Typing SVG" />
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ```typescript
 const steven = {
-  role     : "Head of Development @ ROTOTEC S.A.",
+  role     : "Head of Development",
   location : "Guatemala 🇬🇹",
   focus    : ["ERP integrations", "Logistics systems", "SaaS products"],
-  currentProject: "ParkPass — parking payment platform for shopping centers",
+  currentProject: "Raquel — AI-powered assistant, currently in development.",
   stacks   : ["SAP B1", "SQL Server", "React", "Next.js", "Node.js", "Java"],
   funFact  : "I build internal tools by day and SaaS products by night.",
 };
@@ -69,12 +69,8 @@ const steven = {
 
 ### 🚀 Current Project
 
-<a href="https://github.com/easysolutionsgt/parkpassApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=easysolutionsgt&repo=parkpassApp&theme=github_dark&hide_border=true" />
-</a>
-
-> **ParkPass** — Plataforma de validación de parqueo para centros comerciales en Guatemala.  
-> Stack: Next.js · TypeScript · Node.js · SQL Server
+> 🤖 **Raquel** — AI-powered assistant, currently in development.  
+> Building intelligent, context-aware interactions for real business workflows.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ```typescript
 const steven = {
-  role     : "Head of Development @ ROTOTEC S.A.",
+  role     : "Head of Development",
   location : "Guatemala 🇬🇹",
   focus    : ["ERP integrations", "Logistics systems", "SaaS products"],
   currentProject: "Raquel — AI-powered assistant",

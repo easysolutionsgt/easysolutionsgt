@@ -13,7 +13,7 @@ const steven = {
   role     : "Head of Development",
   location : "Guatemala 🇬🇹",
   focus    : ["ERP integrations", "Logistics systems", "SaaS products"],
-  currentProject: "Raquel — AI-powered assistant, currently in development.",
+  currentProject: "Raquel — AI-powered assistant",
   stacks   : ["SAP B1", "SQL Server", "React", "Next.js", "Node.js", "Java"],
   funFact  : "I build internal tools by day and SaaS products by night.",
 };
@@ -71,6 +71,16 @@ const steven = {
 
 > 🤖 **Raquel** — AI-powered assistant, currently in development.  
 > Building intelligent, context-aware interactions for real business workflows.
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/easysolutionsgt/easysolutionsgt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/easysolutionsgt/easysolutionsgt/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/easysolutionsgt/easysolutionsgt/output/github-snake.svg" />
+</picture>
 
 ---
 

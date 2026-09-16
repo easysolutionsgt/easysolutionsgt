@@ -13,7 +13,7 @@ const steven = {
   role     : "Head of Development",
   location : "Guatemala 🇬🇹",
   focus    : ["ERP integrations", "Logistics systems", "SaaS products"],
-  currentProject: "Raquel — AI-powered assistant",
+  currentProject: "GoCardPass",
   stacks   : ["SAP B1", "SQL Server", "React", "Next.js", "Node.js", "Java"],
   funFact  : "I build internal tools by day and SaaS products by night.",
 };

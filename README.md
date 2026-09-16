@@ -59,7 +59,7 @@ const steven = {
 
 ### 🚀 Current Project
 
-> 🤖 **Raquel** — AI-powered assistant, currently in development.  
+> 🤖 **GoCardPass** — Digital loyalty program system.  
 > Building intelligent, context-aware interactions for real business workflows.
 
 ---
